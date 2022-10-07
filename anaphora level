@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE markables SYSTEM "markables.dtd">
+<markables xmlns="www.eml.org/NameSpaces/anaphor">
+ <markable agreement="they (pl.)" antetype="entity" coref_class="set_23" id="markable_283" mention="pronoun" mmax_level="coref" position="it (subject)" span="word_849..word_849" split="simple antecedent" type="anaphoric" type_of_pronoun="personal"/>
+ <markable agreement="they (pl.)" antetype="entity" coref_class="set_23" id="markable_282" mention="pronoun" mmax_level="coref" position="it (subject)" span="word_836..word_836" split="simple antecedent" type="anaphoric" type_of_pronoun="personal"/>
+ <markable agreement="they (sg.)" antetype="entity" coref_class="set_25" id="markable_285" mention="pronoun" mmax_level="coref" position="it (subject)" span="word_965..word_965" split="simple antecedent" type="anaphoric" type_of_pronoun="personal"/>
+ <markable coref_class="set_25" id="markable_284" mention="np" mmax_level="coref" nptype="antecedent" span="word_956..word_961"/>
+ <markable anacata="anaphoric" antetype="entity" coref_class="set_23" id="markable_281" mention="np" mmax_level="coref" npmod="def-article" nptype="np" span="word_827..word_828" split="simple antecedent"/>
